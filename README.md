@@ -1,0 +1,2 @@
+# FreeRTO_Watch
+使用标准库开发，使用FreeRTOS操作系统，以f103c8t6主控的STM32手表
